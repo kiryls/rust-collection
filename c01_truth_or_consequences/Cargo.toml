@@ -1,0 +1,9 @@
+[package]
+name = "c01_truth_or_consequences"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+
+[dev-dependencies]
+assert_cmd = "1"
